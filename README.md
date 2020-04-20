@@ -16,7 +16,7 @@ As mentioned in the introduction, two main packages are used within this repo. I
 # Usage
 At the 20th of April 2020, only model training is implemented. You can train a model based on movie lens with the following command.
 
-    python train.py --data_source data/ratings.csv --feature_columns userId movieId --target_columns click --model_backend deepctr --model_name DeepFMModel
+    python train.py --data_source data/ratings.csv --feature_columns userId movieId --target_columns click --model_backend deepctr --model_name DeepFMModel --epochs 150
 
 # Author
 Author of this repo = Dominik Heinz
