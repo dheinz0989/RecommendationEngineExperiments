@@ -6,7 +6,7 @@ The source code is written in [Python 3.8](https://www.python.org/). It mainly u
 # Installation
 You can clone this repository by running:
 
-    git clone https://github.com/dheinz0989/Utilities_Import
+    git clone https://github.com/dheinz0989/RecommendationEngineExperiments
 
 # Requirements
 As mentioned in the introduction, two main packages are used within this repo. In order to run the script, you need to install them prior to use it. The recommended standard approach is to pip install them.
